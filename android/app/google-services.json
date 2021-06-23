@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20547678874",
+    "project_id": "online-shop-1ce8f",
+    "storage_bucket": "online-shop-1ce8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20547678874:android:166084206aaa4717e4a523",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20547678874-hb5bq0rbjln6s04llpqlnrqmbki8q782.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wCGu3Ndnn1OMTbqJXnvetBOEpeQFElo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20547678874-hb5bq0rbjln6s04llpqlnrqmbki8q782.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
